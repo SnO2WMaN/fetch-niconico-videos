@@ -34,6 +34,7 @@
             treefmt
             taplo-cli
             deno
+            yt-dlp
           ];
         };
       }
